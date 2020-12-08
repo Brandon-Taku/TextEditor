@@ -147,8 +147,8 @@ public class Controller implements Initializable{
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
 
         alert.setTitle("About");
-        alert.setHeaderText("A project just for fun written by abrand.");
-        alert.setContentText("github.com/abrandell");
+        alert.setHeaderText("A project just for fun written by Taku.");
+        alert.setContentText("github.com/Brandon-Taku");
         alert.showAndWait();
     }
 
